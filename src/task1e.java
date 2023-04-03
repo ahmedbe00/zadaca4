@@ -34,6 +34,5 @@ public class task1e {
         }
         while (true);
 
-
     }
 }

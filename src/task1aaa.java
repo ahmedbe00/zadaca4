@@ -13,7 +13,5 @@ public class task1aaa {
         }
         while (number>0);
 
-
-
     }
 }

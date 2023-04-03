@@ -105,9 +105,7 @@ public class task3 {
         //System.out.println("Array after deleting " + amountOfNumberToDelete + " numbers");
        // for (int i = 0; i < numberOfElements; i++) {
         //    System.out.print(myArray[i] + " ");
-
-
-
+        
         }
     }
 
